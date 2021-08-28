@@ -1,0 +1,21 @@
+{
+	"patch.js": 3384041151,
+	"th11.js": 195349012,
+	"th11/front.anm": 1365104180,
+	"th11/stage01.ecl": 2158850524,
+	"th11/stage02.ecl": 1752222846,
+	"th11/stage03.ecl": 888310240,
+	"th11/stage04.ecl": 4191629431,
+	"th11/stage05.ecl": 792007866,
+	"th11/stage06.ecl": 1023441509,
+	"th11/stage07.anm": 1780492025,
+	"th11/stage07.ecl": 620969322,
+	"th11/stage07.std": 3772680334,
+	"th11/stage07.tecl": 581957347,
+	"th11/stage07_bossprac.ecl": 4021101277,
+	"th11/th11.eclm": 3846700084,
+	"th11/th11_15.ogg": 851468110,
+	"th11/th11_17.ogg": 936558513,
+	"th11/thecl.exe": 49533976,
+	"th11/title.anm": 3400919847
+}
